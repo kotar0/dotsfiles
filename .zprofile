@@ -1,1 +1,0 @@
-/Users/kotaro/.zprezto/runcoms/zprofile
