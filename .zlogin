@@ -1,0 +1,1 @@
+/Users/kotaro/.zprezto/runcoms/zlogin
